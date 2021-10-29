@@ -1,5 +1,5 @@
 # ideas-for-OSS-names
 
-Slim Shady
+Slim Shady  
 A thin Node streams wrapper
 
